@@ -1,0 +1,34 @@
+[
+  { "text": "انا سعيد جدا اليوم", "label": "happy" },
+  { "text": "اشعر بفرح كبير", "label": "happy" },
+  { "text": "هذا افضل يوم في حياتي", "label": "happy" },
+  { "text": "انا مبسوط للغاية", "label": "happy" },
+  { "text": "نجحت في الامتحان وانا فرحان", "label": "happy" },
+  { "text": "ضحكت من قلبي", "label": "happy" },
+  { "text": "بكيت من شدة الفرح", "label": "happy" },
+  { "text": "اشعر بالراحة والسعادة", "label": "happy" },
+
+  { "text": "انا حزين جدا", "label": "sad" },
+  { "text": "اشعر بالاكتئاب", "label": "sad" },
+  { "text": "هذا اسوأ يوم في حياتي", "label": "sad" },
+  { "text": "قلبي مكسور", "label": "sad" },
+  { "text": "بكيت بسبب الالم", "label": "sad" },
+  { "text": "انا متضايق جدا", "label": "sad" },
+  { "text": "اشعر بالوحدة", "label": "sad" },
+  { "text": "فقدت شيئا مهما في حياتي", "label": "sad" },
+
+  { "text": "انا بكيت", "label": "neutral" },
+  { "text": "لا اعرف ماذا اشعر", "label": "neutral" },
+  { "text": "اشعر بشيء غريب", "label": "neutral" },
+  { "text": "اليوم كان عاديا", "label": "neutral" },
+  { "text": "لا سعيد ولا حزين", "label": "neutral" },
+  { "text": "لا اشعر بشيء", "label": "neutral" },
+  { "text": "حدث شيء ولم افهمه", "label": "neutral" },
+
+  { "text": "انا غاضب جدا", "label": "angry" },
+  { "text": "هذا الامر اغضبني", "label": "angry" },
+  { "text": "اشعر بالغضب الشديد", "label": "angry" },
+  { "text": "لا استطيع التحكم في اعصابي", "label": "angry" },
+  { "text": "هذا غير مقبول ابدا", "label": "angry" },
+  { "text": "اشعر بالحنق", "label": "angry" }
+]
